@@ -1,0 +1,1 @@
+# Finding Waldo by using template matching
